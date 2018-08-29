@@ -1,0 +1,29 @@
+target/
+*.rar
+temp/
+*.lnk
+.DS_Store
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### eclipse and STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.vscode/
